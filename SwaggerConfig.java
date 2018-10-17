@@ -28,7 +28,7 @@ public class SwaggerConfig {
           "Some custom description of API.",
           "API TOS",
           "Terms of service",
-          "prabhat.yadav@in.g4s.com",
+          "prabhatyadav03@gmail.com",
           "License of API",
           "API license URL");
         return apiInfo;
